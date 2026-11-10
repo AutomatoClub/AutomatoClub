@@ -12,4 +12,4 @@ For that article, the pilot produced a campaign strategy, three social post draf
 
 **What do you wish you had a tool for?** Think about the last time you ran into the problem. Who was doing the work? How did they handle it? What would a useful first version let them do differently?
 
-[Share your idea on GitHub](https://github.com/AutomatoClub/AutomatoClub/issues/new/choose). A few sentences are enough. Ideas posted here are public, so use an example you’re comfortable sharing.
+A few sentences are enough. [Send your idea to the studio privately](https://automato.club/contact-us) or [open a public GitHub issue](https://github.com/AutomatoClub/AutomatoClub/issues/new/choose).
